@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "questionText": "What is the correct syntax to create a variable in Java?",
+      "options": ["var name = value", "datatype variableName = value", "create variable name", "variableName := value"],
+      "correctOption": 2,
+      "difficulty": "easy",
+      "category": "Java Programming",
+      "explanation": "In Java, variables are declared with: datatype variableName = value; For example: int age = 25;"
+    },
+    {
+      "questionText": "Which of the following is NOT a primitive data type in Java?",
+      "options": ["int", "String", "boolean", "char"],
+      "correctOption": 2,
+      "difficulty": "easy",
+      "category": "Java Programming", 
+      "explanation": "String is a reference type, not a primitive type. Primitive types in Java are: byte, short, int, long, float, double, boolean, and char."
+    },
+    {
+      "questionText": "What is method overloading in Java?",
+      "options": ["Creating multiple methods with same name but different parameters", "Overriding parent class methods", "Creating static methods", "Using final keyword"],
+      "correctOption": 1,
+      "difficulty": "medium",
+      "category": "Java Programming",
+      "explanation": "Method overloading allows multiple methods with the same name but different parameter lists (different number or types of parameters)."
+    },
+    {
+      "questionText": "What is the time complexity of accessing an element in an array by index?",
+      "options": ["O(1)", "O(log n)", "O(n)", "O(n²)"],
+      "correctOption": 1,
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "explanation": "Array access by index is O(1) because arrays provide direct memory access using the index."
+    },
+    {
+      "questionText": "Which data structure is best for implementing recursion?",
+      "options": ["Array", "Queue", "Stack", "Linked List"],
+      "correctOption": 3,
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "explanation": "Stack is used for recursion because function calls follow LIFO (Last In, First Out) principle - the most recent call must finish first."
+    },
+    {
+      "questionText": "What is the worst-case time complexity of Quick Sort?",
+      "options": ["O(n log n)", "O(n²)", "O(n)", "O(log n)"],
+      "correctOption": 2,
+      "difficulty": "hard",
+      "category": "Data Structures",
+      "explanation": "Quick Sort has O(n²) worst-case complexity when the pivot is always the smallest or largest element, but average case is O(n log n)."
+    },
+    {
+      "questionText": "Who is known as the 'Father of Computer Science'?",
+      "options": ["Bill Gates", "Alan Turing", "Steve Jobs", "Mark Zuckerberg"],
+      "correctOption": 2,
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "explanation": "Alan Turing is considered the father of computer science and artificial intelligence. He developed the concept of the Turing machine."
+    },
+    {
+      "questionText": "What does CPU stand for?",
+      "options": ["Computer Processing Unit", "Central Processing Unit", "Core Processing Unit", "Central Program Unit"],
+      "correctOption": 2,
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "explanation": "CPU stands for Central Processing Unit - it's the main component that executes instructions in a computer."
+    },
+    {
+      "questionText": "Which programming language was developed by James Gosling?",
+      "options": ["Python", "Java", "C++", "JavaScript"],
+      "correctOption": 2,
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "explanation": "Java was developed by James Gosling at Sun Microsystems in the mid-1990s."
+    },
+    {
+      "questionText": "What does HTTP stand for?",
+      "options": ["Hyper Text Transfer Protocol", "High Tech Transfer Protocol", "Hyper Transfer Text Protocol", "Home Tool Transfer Protocol"],
+      "correctOption": 1,
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "explanation": "HTTP stands for HyperText Transfer Protocol - it's the foundation of data communication on the World Wide Web."
+    },
+    {
+      "questionText": "Which keyword is used to inherit a class in Java?",
+      "options": ["implements", "extends", "inherits", "super"],
+      "correctOption": 2,
+      "difficulty": "easy",
+      "category": "Java Programming",
+      "explanation": "The 'extends' keyword is used for class inheritance in Java. Example: class Child extends Parent"
+    },
+    {
+      "questionText": "What is the difference between == and .equals() in Java?",
+      "options": ["No difference", "== compares references, .equals() compares content", "== compares content, .equals() compares references", "Both compare content"],
+      "correctOption": 2,
+      "difficulty": "medium",
+      "category": "Java Programming",
+      "explanation": "== compares object references (memory addresses), while .equals() compares the actual content/values of objects."
+    },
+    {
+      "questionText": "In a binary search tree, what is the maximum number of children a node can have?",
+      "options": ["1", "2", "3", "Unlimited"],
+      "correctOption": 2,
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "explanation": "In a binary search tree, each node can have at most 2 children: a left child and a right child."
+    },
+    {
+      "questionText": "What is the space complexity of merge sort?",
+      "options": ["O(1)", "O(log n)", "O(n)", "O(n²)"],
+      "correctOption": 3,
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "explanation": "Merge sort requires O(n) extra space for the temporary arrays used during the merging process."
+    },
+    {
+      "questionText": "Which year was the World Wide Web invented?",
+      "options": ["1989", "1991", "1993", "1995"],
+      "correctOption": 2,
+      "difficulty": "medium",
+      "category": "General Knowledge",
+      "explanation": "The World Wide Web was invented by Tim Berners-Lee in 1991 while working at CERN."
+    }
+  ]
+}

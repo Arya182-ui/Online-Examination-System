@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "questionText": "What is the capital of India?",
+      "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+      "correctOption": 2
+    },
+    {
+      "questionText": "Who is known as the 'Father of the Nation' in India?",
+      "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi", "Sardar Patel"],
+      "correctOption": 3
+    },
+    {
+      "questionText": "Which is the longest river in India?",
+      "options": ["Yamuna", "Narmada", "Ganga", "Godavari"],
+      "correctOption": 3
+    },
+    {
+      "questionText": "In which year did India gain independence?",
+      "options": ["1945", "1947", "1948", "1950"],
+      "correctOption": 2
+    },
+    {
+      "questionText": "What is the national animal of India?",
+      "options": ["Lion", "Elephant", "Tiger", "Peacock"],
+      "correctOption": 3
+    },
+    {
+      "questionText": "Which Indian festival is known as the 'Festival of Lights'?",
+      "options": ["Holi", "Diwali", "Dussehra", "Eid"],
+      "correctOption": 2
+    },
+    {
+      "questionText": "Which state is known as 'God's Own Country'?",
+      "options": ["Goa", "Kerala", "Kashmir", "Himachal Pradesh"],
+      "correctOption": 2
+    },
+    {
+      "questionText": "Who was the first Prime Minister of India?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Indira Gandhi", "Rajiv Gandhi"],
+      "correctOption": 2
+    },
+    {
+      "questionText": "Where is the Taj Mahal located?",
+      "options": ["Delhi", "Agra", "Jaipur", "Lucknow"],
+      "correctOption": 2
+    },
+    {
+      "questionText": "What is the currency of India?",
+      "options": ["Dollar", "Pound", "Rupee", "Euro"],
+      "correctOption": 3
+    }
+  ]
+}
