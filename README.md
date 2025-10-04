@@ -1,4 +1,4 @@
-# 🎓 Enhanced Online Examination System
+# 🎓Online Examination System
 
 [![Java Version](https://img.shields.io/badge/Java-8%2B-orange)](https://www.java.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -430,8 +430,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### **For Academic Queries**
 - **Mentor**: Chetan Dhakad
-- **Institution**: [Your College Name]
-- **Course**: Computer Science/Software Engineering
+- **Institution**: Invertis University Bareilly
+- **Course**: Computer Science Engineering
 
 ### **For Technical Issues**
 - Create an issue in the GitHub repository
