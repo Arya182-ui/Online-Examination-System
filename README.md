@@ -96,8 +96,8 @@ The **Enhanced Online Examination System** is a robust Java application designed
 | Detail | Information |
 |--------|------------|
 | **Project Type** | College Academic Project |
-| **Course** | Computer Science / Software Engineering |
-| **Mentor** | Chetan Dhakad |
+| **Course** | Computer Science Engineering |
+| **Mentor** | Chetan Dhakad Sir |
 | **Academic Year** | 2024-2025 |
 | **Programming Language** | Java |
 | **Development Environment** | Any Java IDE (Eclipse, IntelliJ, VS Code) |
